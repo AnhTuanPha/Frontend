@@ -1,0 +1,10 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "atuan",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}
